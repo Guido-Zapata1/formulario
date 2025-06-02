@@ -1,0 +1,61 @@
+    .contenedor{
+            display:flex
+            
+
+            
+        }
+
+    .Nombre{
+            width: 450px;
+            padding: 1px;
+            margin-bottom: 5px;
+        }
+
+    .Rut{
+            width: 350px;
+            padding: 1px;
+            margin-left: 5px;
+            margin-right: 5px;
+            margin-bottom: 5px;
+        
+        }
+    
+    .fecha_de_nacimiento{
+            width: 350px;
+            padding: 1px;
+            margin-bottom: 15px;
+            
+
+    }
+
+    .contenedor_2{
+        display: flex;
+    }
+
+    .CV{
+        margin-right: 5px;
+    }
+
+
+    .email{
+        margin-right: 5px
+    }
+
+    .Genero{
+
+        width: 200px;
+        padding: 10px;
+        height: 50px;
+        margin-left: 50px;
+
+    }
+
+    .contenedor_3{
+        display: flex;
+    }
+
+
+    .Guardar{
+        margin-right: 15px;
+    }
+
